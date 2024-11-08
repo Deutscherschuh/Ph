@@ -1,8 +1,8 @@
 const settings = {
-  packname: 'My Sticker Pack',
-  author: 'My Bot',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
+  packname: 'Ayush The Best',
+  author: 'mert ',
+  botName: "Ayush Bot",
+  botOwner: 'vk', // Your name
   ownerNumber: '917023951514', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
